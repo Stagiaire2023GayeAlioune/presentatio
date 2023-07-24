@@ -199,7 +199,7 @@ import statsmodels.formula.api as smf
 from sklearn.preprocessing import StandardScaler 
 import seaborn as sns
 from sympy import symbols
-from sympy import cos, exp
+#from sympy import cos, exp
 from sympy import lambdify
 import statsmodels.formula.api as smf
 from sympy import *
