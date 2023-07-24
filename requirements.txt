@@ -27,7 +27,6 @@ pandas==1.5.3
 Paver==1.3.4
 pickle5
 Pillow==9.4.0
-Pillow==10.0.0
 plex==2.0.0dev
 plotly==5.9.0
 psutil==5.9.0
